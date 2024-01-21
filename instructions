@@ -1,0 +1,7 @@
+Run the "Hanged_Man.py" file and follow the input instructions to choose a category.
+See the blank spaces to view the generated movie or character.
+If the (e.g.) movie title includes numbers, a reminder to guess numbers will be given.
+Input a letter (or number), and you will see if your guess is correct.
+Once you guess an incorrect character, an image of the Hanged Man will begin generating, and will build with each incorrect guess.
+You must guess one letter at a time until the full word is completed.
+Good luck!
